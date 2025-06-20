@@ -36,7 +36,7 @@ Created a file, changed its permissions to `744`, and changed ownership to `root
 **Description:**  
 Installed the `net-tools` package using `apt` 
 
-[output](screenshots/4.png)
+![installing a package output](screenshots/4.png)
 
 ---
 
