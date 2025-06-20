@@ -45,11 +45,8 @@ Installed the `net-tools` package using `apt`
 **Description:**  
 Used `ping` to test connectivity to `google.com`.
 
-![Ping Output](screenshots/screenshot5.png)
+![Ping Output](screenshots/5.png)
 
----
 
-## 📁 Folder Structure
 
-Ensure your repo has this structure:
 
